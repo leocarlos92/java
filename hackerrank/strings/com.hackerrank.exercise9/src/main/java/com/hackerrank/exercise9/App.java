@@ -12,8 +12,18 @@ public class App
 {
     public static void main( String[] args )
     {
-        String regex = "/* Write a RegEx matching repeated words here. */";
-        Pattern p = Pattern.compile(regex, /* Insert the correct Pattern flag here.*/);
+        String regex = "\\b(\\w+)(\\s+\\1\\b)+";
+
+        /*
+            b:          look for word boundary (match only beginning of word instead of somewhere in the middle);
+            (\w+):      match one ore more word characters and remember them as a group (the parens) to which later we can refer to using a number; so this matches a complete word and remembers it;
+            \s+:        match one or more space characters;
+            \1:         match the word remembered in step 2;
+            \b:         like in step 1 - make sure it’s not a part of some longer word;
+            (\s+\1\b)+: match one or more occurrences of the word captured in step 2.
+         */
+
+        Pattern p = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
 
         Scanner in = new Scanner(System.in);
         int numSentences = Integer.parseInt(in.nextLine());
@@ -22,16 +32,17 @@ public class App
             String input = in.nextLine();
 
             Matcher m = p.matcher(input);
-
-            // Check for subsequences of input that match the compiled pattern
+            
             while (m.find()) {
-                input = input.replaceAll(/* The regex to replace */, /* The replacement. */);
+                input = input.replaceAll(m.group(), m.group(1));
+                /*
+                String input = "The the string String string stringing.";
+                m.group(): "The the" and m.group(1): "The"
+                m.group(): "string String string" and m.group(1): "string".
+                */
             }
-
-            // Prints the modified sentence.
             System.out.println(input);
         }
-
         in.close();
     }
 }
