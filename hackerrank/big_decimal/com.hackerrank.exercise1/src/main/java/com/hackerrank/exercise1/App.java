@@ -1,15 +1,15 @@
 package com.hackerrank.exercise1;
 
-import java.io.FileNotFoundException;
+import java.math.BigDecimal;
 import java.util.Scanner;
 
 /**
  * Hello world!
  *
  */
-public class App{
-
-    public static void main(String []args){
+public class App
+{
+    public static void main(String[] args){
         //Input
         Scanner sc= new Scanner(System.in);
         int n=sc.nextInt();
