@@ -1,0 +1,15 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ô•µJ$cb6d5c47-66c3-4436-b190-2bcb0862e0f7
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ž³ÊJ$5f430f00-46af-4ea0-a6c6-aebdc6eb0ad0
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½°ÚµJ$d5388440-dc78-4a81-a39c-d85a0e44263b
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½°ÚµJ$e7e330e3-ce9d-479a-a558-cf700714eafb
+‘	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÂÆõýÿÿÿÿJ$13de1316-fb00-41ee-8c98-01ae8e7e09e8
+‘	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÂÆõýÿÿÿÿJ$0ef77c01-7a68-4b4c-8d84-e82e5712d959
+e	java:S106"+Replace this use of System.out by a logger.(©ð§pJ$2ec166f9-041c-47b5-82a0-c81d7a88646c
+w	java:S125!"<This block of commented-out lines of code should be removed.(·Ž°·J$33e2047e-27e3-47e1-a7b2-21b4f286cb2e
+|	java:S125("<This block of commented-out lines of code should be removed.(­ÉÀùÿÿÿÿJ$2e5c4139-a565-4e66-86be-25a35a6ec4df
+Ž	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ï¹®ÿÿÿÿÿJ$1dc47a86-d82c-47e3-8344-d72cb699c97e
+p
+java:S1172;"/Remove these unused method parameters "N", "A".(¼ÂÆõýÿÿÿÿJ$06b51628-3963-4e99-9863-a177ac21761c
+b
+java:S1168="&Return an empty array instead of null.(¥¹ïJ$c47e463c-3d33-4b4c-9704-425dc48e9c2f

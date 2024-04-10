@@ -1,0 +1,10 @@
+
+˜	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(­–„úÿÿÿÿJ$ccd01813-7671-4d05-8fd7-8d06be06034e
+‘	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À÷ÏˆøÿÿÿÿJ$30c50257-c50c-44d7-9187-1ba776f59f70
+k	java:S106
+"+Replace this use of System.out by a logger.(À²ÛüÿÿÿÿJ$1dcf1159-3b60-4339-9735-428bbf5fb1f8
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈªŞ’úÿÿÿÿJ$87035517-115c-4e72-876e-31a56c9058ab
+	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À÷ÏˆøÿÿÿÿJ$287cc171-4d59-4f15-ba47-d00203729aa2
+w	java:S125-"<This block of commented-out lines of code should be removed.(Ç«¨ğJ$61fbb8f7-9320-42f2-9a4c-058af7c9b774
+b
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙJ$cdde8068-c258-4221-a66b-0622a7a80aae

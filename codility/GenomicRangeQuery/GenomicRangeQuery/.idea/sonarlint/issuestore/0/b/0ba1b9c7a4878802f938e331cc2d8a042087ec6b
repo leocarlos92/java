@@ -1,0 +1,19 @@
+
+“	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤••ƒ8Öúù¹ê1J$b14811be-3e0c-42cb-ac9c-f34f90de1000
+“	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸8Öúù¹ê1J$ce07aca5-7b13-4e39-b222-69b859fad7cf
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ó’ø8Öúù¹ê1J$1da26bab-c4f5-4746-b7f1-636ff1fc7015
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—›¹ÿÿÿÿÿ8Öúù¹ê1J$c87303ad-7ab4-410e-863c-ccb4fb3a5b71
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—›¹ÿÿÿÿÿ8Öúù¹ê1J$7dcc787c-555e-4bb0-891e-cf9ef84e077e
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—›¹ÿÿÿÿÿ8Öúù¹ê1J$09c50899-205a-4784-8de5-6d9b29094b6b
+l	java:S106"+Replace this use of System.out by a logger.(ßÀ–>8äúù¹ê1J$1204df48-9e3f-4350-b55a-212a10b24f56
+
+java:S1854"7Remove this useless assignment to local variable "map".(¢³™’úÿÿÿÿ8åúù¹ê1J$fbe29db6-d251-480e-b4f0-ffb6e231bfd9
+r
+java:S1481"*Remove this unused "start" local variable.(¡Ò¾üÿÿÿÿ8åúù¹ê1J$4ddb85bf-633a-4df6-8847-70b80f2a952f
+p
+java:S1481"(Remove this unused "end" local variable.(éè÷ƒúÿÿÿÿ8åúù¹ê1J$b5609106-2292-4a49-a752-5bce99d8a4fd
+p
+java:S1481"(Remove this unused "map" local variable.(¢³™’úÿÿÿÿ8æúù¹ê1J$74f6c61b-3139-4b2d-bb9f-ff7a6a7667f1
+i
+java:S1168!"&Return an empty array instead of null.(¥¹ï8çúù¹ê1J$e4f9a1ad-f7ba-43c6-88cf-7d3685afa4ab

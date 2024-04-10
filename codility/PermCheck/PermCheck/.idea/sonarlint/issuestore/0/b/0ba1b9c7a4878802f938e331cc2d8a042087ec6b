@@ -1,0 +1,8 @@
+
+‘	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¿ÙÃùÿÿÿÿJ$bf39dc19-f683-4b1f-98d4-2cfbc3a38901
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãžýÿÿÿÿJ$1f7f2046-07c5-4e64-8fcb-f218cc2b5c71
+f	java:S106"+Replace this use of System.out by a logger.(¿øåîJ$a8b663a3-ccac-4267-9ed8-95ca2ec3ad3b
+w	java:S125
+"<This block of commented-out lines of code should be removed.(ŠÃ†¹J$947001ba-f8c3-4cf4-aec3-d134dfdf4646
+n
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿJ$775fd2fa-25d6-4dcf-9c39-4a551791cb38
