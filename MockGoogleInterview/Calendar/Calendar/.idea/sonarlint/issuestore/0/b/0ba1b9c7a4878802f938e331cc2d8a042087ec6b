@@ -1,0 +1,44 @@
+
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "18:00" 3 times.(İéßÔ8å‰ŒÏï1J$57a63200-45f1-47f5-bdc1-ca3d12463973
+’	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ï…48å‰ŒÏï1J$7c7d87dc-e03a-49b8-a857-6f18e9954af8
+}
+java:S1854":Remove this useless assignment to local variable "output".(÷™ş³8í‰ŒÏï1J$0c9a1240-a958-4d4b-bac1-e0af05f029c7
+‹
+java:S1854"CRemove this useless assignment to local variable "meetingDuration".(—ŞñÅùÿÿÿÿ8í‰ŒÏï1J$7799bd25-1681-4b3e-b2ba-fec90070be47
+~	java:S125"<This block of commented-out lines of code should be removed.(‹üº8í‰ŒÏï1J$40dbf1d8-f76c-40e1-9602-9160d2b11459
+|
+java:S1481"4Remove this unused "meetingDuration" local variable.(—ŞñÅùÿÿÿÿ8í‰ŒÏï1J$b51834da-d5f5-4c78-b95c-55da8e3db25a
+n
+java:S1481"+Remove this unused "output" local variable.(÷™ş³8î‰ŒÏï1J$75987c1f-18f3-43a6-8bd9-977207d31661
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ëˆáøÿÿÿÿ8î‰ŒÏï1J$cefdfde1-2266-4722-abd5-55bdb0c3cba9
+~
+java:S1854 "<Remove this useless assignment to local variable "Calendar".(§ï…48î‰ŒÏï1J$12012dd1-efa4-4e6c-b51d-5a7b08daea89
+o
+java:S1481 "-Remove this unused "Calendar" local variable.(§ï…48ï‰ŒÏï1J$b8356619-d9ff-433a-b3fc-1e7c8bd27962
+„
+java:S1172b"ARemove these unused method parameters "calendarP1", "calendarP2".(ÙÈíó8ñ‰ŒÏï1J$5b151fb5-8dea-49ec-b7cf-f2c40baea93a
+z
+java:S1854q"7Remove this useless assignment to local variable "gap".(®ÂÂƒ8ñ‰ŒÏï1J$a4020698-08d7-40b2-b773-c79dbcdb392f
+\
+java:S1854p"?Remove this useless assignment to local variable "lateMetting".(Ğëì8³ŒÏï1
+z
+java:S1854o"7Remove this useless assignment to local variable "gap".(®ÂÂƒ8úêŒÏï1J$4f1a3824-0b2a-431e-9e68-8f9cb9ec5ddf
+…
+java:S1854l"=Remove this useless assignment to local variable "lateBound".(á “üÿÿÿÿ8ñ‰ŒÏï1J$936df55b-53ad-4e28-a9f4-a1abca248071
+€
+java:S1854k">Remove this useless assignment to local variable "earlyBound".(£äög8ñ‰ŒÏï1J$8055cac5-e012-47df-9b8e-2fd55a654336
+
+java:S1854i"9Remove this useless assignment to local variable "limit".(£¾øøÿÿÿÿ8ñ‰ŒÏï1J$4ee91aab-39ad-4be7-a76e-555355d9768e
+r
+java:S1481i"*Remove this unused "limit" local variable.(£¾øøÿÿÿÿ8ñ‰ŒÏï1J$98e514b6-7b9e-4bb4-8dcd-bff2cd866d93
+q
+java:S1481k"/Remove this unused "earlyBound" local variable.(£äög8ñ‰ŒÏï1J$3ea8b3b3-39bc-4403-bee1-8433b3d57fb2
+v
+java:S1481l".Remove this unused "lateBound" local variable.(á “üÿÿÿÿ8ò‰ŒÏï1J$c5e76a9f-cba8-4064-8d41-25a9dce1775d
+k
+java:S1481o"(Remove this unused "gap" local variable.(®ÂÂƒ8·¾ŒÏï1J$6d5b70a8-5017-40f4-828f-e301e90b9ef7
+M
+java:S1481p"0Remove this unused "lateMetting" local variable.(Ğëì8³ŒÏï1
+k
+java:S1481q"(Remove this unused "gap" local variable.(®ÂÂƒ8úêŒÏï1J$6a1f16f3-a30e-456a-970f-e2ca1f575cc9

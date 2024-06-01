@@ -1,0 +1,139 @@
+
+“
+java:S1192"QDefine a constant instead of duplicating this literal "America/New_York" 4 times.(¯òÆ8¹ÃÂ¤î1J$8aed19bf-3cf5-46e4-850b-f3d53e84a307
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ²Ä8ÇÖÂ¤î1J$6f56d67a-73c2-4ca9-98ca-0d04a9b6ada0
+™	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÅ–şÿÿÿÿ8ºÃÂ¤î1J$43cbeef7-ade5-416c-be34-54a7d2aa7e91
+™	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÁû²øÿÿÿÿ8ÇÖÂ¤î1J$ed33a756-9624-4ca2-8423-80928452cadd
+
+java:S4973q"<Strings and Boxed types should be compared using "equals()".(×áİ„8»ÃÂ¤î1J$bafe1ce1-bff1-4061-b385-dc7d009d76c2
+‚
+java:S1226Í">Introduce a new variable instead of reusing the parameter "x".(›ì8ÊÖÂ¤î1J$df8ea039-41e9-4ed0-b446-5eb42a934b08
+|
+java:S2589¶"8Remove this expression which always evaluates to "false"(å¾Ã½8ÜÖÂ¤î1J$551e5ae1-8ccd-4f64-8be0-6c1f6eb3e5f6
+{
+java:S2589¶"7Remove this expression which always evaluates to "true"(å¾Ã½8ÛÖÂ¤î1J$bef7e82c-20b9-4032-a6be-2260b935c884
+{
+java:S2589¶"7Remove this expression which always evaluates to "true"(å¾Ã½8ÜÖÂ¤î1J$2d7e4793-7f8f-458a-8f23-e73a3a48bf62
+€
+java:S18548"=Remove this useless assignment to local variable "duration1".(ë²½‹8ÌÃÂ¤î1J$603e0a54-3416-495e-b692-adbe86e1e271
+
+java:S18547">Remove this useless assignment to local variable "aprilFools".(Ç†–«8ÌÃÂ¤î1J$cfd15070-7d3a-4d49-a5ff-09ab8cef978d
+Š
+java:S18546"BRemove this useless assignment to local variable "montyPythonDay".(ıÆÈ½ÿÿÿÿÿ8ÌÃÂ¤î1J$89d2bf91-ca18-4b53-adc6-d0b93e469d0d
+}
+java:S1854,"5Remove this useless assignment to local variable "z".(Æ´Ş¬ÿÿÿÿÿ8ÌÃÂ¤î1J$ef69c1c3-f788-4fc1-b986-959f84d5f576
+~
+java:S1854P";Remove this useless assignment to local variable "period1".(Îï–ñ8ÌÃÂ¤î1J$b8527cc9-b17a-44c7-b955-fac90c88ba9d
+ƒ
+java:S1854O";Remove this useless assignment to local variable "instant".(íò±Êşÿÿÿÿ8ÌÃÂ¤î1J$96c55878-cac4-4356-8490-1592b820b851
+€
+java:S1854N"=Remove this useless assignment to local variable "duration2".(Ïëÿ÷8ÌÃÂ¤î1J$649de05d-97ff-4196-8574-0c6c8a6574ed
+€
+java:S1854M">Remove this useless assignment to local variable "chronoUnit".(å’98ÌÃÂ¤î1J$2b61b920-3162-42c4-8682-0a48c63b64e3
+…
+java:S1854D"=Remove this useless assignment to local variable "localTime".(İÌğ®øÿÿÿÿ8ÌÃÂ¤î1J$b3f1acfa-2e56-4fc7-bb66-3119e908d33c
+r	java:S106"+Replace this use of System.out by a logger.(ÄÜÜñúÿÿÿÿ8ÍÃÂ¤î1J$8e6ddd42-cd16-48d8-9b6d-89b081f11f13
+r	java:S106"+Replace this use of System.out by a logger.(ûÛÏçùÿÿÿÿ8ÍÃÂ¤î1J$282c874f-9f90-4a22-b3c7-40b9e0414680
+r	java:S106"+Replace this use of System.out by a logger.(º²ëöøÿÿÿÿ8ÍÃÂ¤î1J$d08c1e64-d550-4291-826b-388211286329
+r	java:S106"+Replace this use of System.out by a logger.(˜ûŞˆûÿÿÿÿ8ÍÃÂ¤î1J$e7c91a0f-3993-4f72-a68d-614be7861440
+m	java:S106"+Replace this use of System.out by a logger.(¶ÁÖ8ÍÃÂ¤î1J$618f5062-9df5-4623-a5b0-e810aca8e6c7
+r	java:S106!"+Replace this use of System.out by a logger.(…’Âáùÿÿÿÿ8ÎÃÂ¤î1J$1ded4b86-1b3b-4441-9ee6-6d70808bc15c
+m	java:S106'"+Replace this use of System.out by a logger.(ı‚­8ÎÃÂ¤î1J$7648fdff-fdff-4de8-b3c4-55d3c4c6187c
+t
+java:S22011",The return value of "plusDays" must be used.(½Ã¹çùÿÿÿÿ8ÏÃÂ¤î1J$4df017f9-26a7-4918-8550-48a204cb49f1
+m	java:S1064"+Replace this use of System.out by a logger.(ê™§„8ÏÃÂ¤î1J$dcad75b7-09f3-4e13-9123-0edb9a689d5b
+{
+java:S14816"3Remove this unused "montyPythonDay" local variable.(ıÆÈ½ÿÿÿÿÿ8ÏÃÂ¤î1J$2813cb8e-a736-4aad-acda-f886e9faa915
+r
+java:S14817"/Remove this unused "aprilFools" local variable.(Ç†–«8ÏÃÂ¤î1J$8e097d4e-743c-421b-bff3-4c2f314b556c
+q
+java:S14818".Remove this unused "duration1" local variable.(ë²½‹8ÏÃÂ¤î1J$e0b0f391-20f4-4f37-8923-cc1d404b3ded
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(ÊŞÒÑıÿÿÿÿ8ÏÃÂ¤î1J$9a2e6f4d-ab34-4c44-9839-722b6691978c
+u
+java:S2201A"-The return value of "plusHours" must be used.(’–ò½ùÿÿÿÿ8ĞÃÂ¤î1J$5153f001-ab96-4aae-b754-bdb6357a8dac
+r	java:S106B"+Replace this use of System.out by a logger.(¥­â­ÿÿÿÿÿ8ĞÃÂ¤î1J$69da3af2-bf6a-4990-b446-6dfd2163c997
+n
+java:S2201F"+The return value of "getYear" must be used.(µÂÖñ8ĞÃÂ¤î1J$a5947a08-1ad8-41c7-a4c9-bc61c12880e5
+t
+java:S2201G",The return value of "getYears" must be used.(‰™Šğüÿÿÿÿ8ĞÃÂ¤î1J$02805412-8071-442d-912e-b53844091883
+s
+java:S2201H"+The return value of "getYear" must be used.(”ªïüÿÿÿÿ8ĞÃÂ¤î1J$e457a9ac-a9a6-4618-9372-7375107a692d
+r	java:S106K"+Replace this use of System.out by a logger.(ğÿ·ıÿÿÿÿ8ĞÃÂ¤î1J$3fcc37a2-e570-41f6-833d-6b0968551a59
+q
+java:S1481M"/Remove this unused "chronoUnit" local variable.(å’98ÑÃÂ¤î1J$b2a3a51e-71b2-400f-900f-5938b52fcb83
+q
+java:S1481N".Remove this unused "duration2" local variable.(Ïëÿ÷8ÑÃÂ¤î1J$e80e4e43-e3cf-43ed-bf35-fd671901bc79
+t
+java:S1481O",Remove this unused "instant" local variable.(íò±Êşÿÿÿÿ8ÑÃÂ¤î1J$909f709a-0a37-4cc4-9468-1c9104d007be
+o
+java:S1481P",Remove this unused "period1" local variable.(Îï–ñ8ÑÃÂ¤î1J$4cc2aa4d-b510-423e-b194-85b8c8715c42
+m	java:S106Y"+Replace this use of System.out by a logger.(±ü”›8ÑÃÂ¤î1J$2871f165-d1e0-4b51-8a57-2bfcb8d46c6e
+r	java:S106`"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ÒÃÂ¤î1J$7c8cfa3a-f9a9-41be-9ed3-75770ea1a556
+r	java:S106e"+Replace this use of System.out by a logger.(»şÓãúÿÿÿÿ8ÒÃÂ¤î1J$52011a55-fc71-4ffe-95af-39d33b0c8931
+r	java:S106k"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8ÒÃÂ¤î1J$f9817fab-0c88-4357-a85d-cc9faa40e600
+c
+java:S2129o" Remove this "String" constructor(ØÈÄ¢8ÓÃÂ¤î1J$d119b051-bb96-4b24-b159-08da464c5401
+m	java:S106q"+Replace this use of System.out by a logger.(×áİ„8ÓÃÂ¤î1J$7ea89779-aea0-4bd9-a185-11fe2eede864
+m	java:S106r"+Replace this use of System.out by a logger.(×•œ²8ÓÃÂ¤î1J$e54b6cde-514e-43c2-afd1-6c72d60ea822
+r	java:S106s"+Replace this use of System.out by a logger.(´Ñ·Ÿùÿÿÿÿ8ÓÃÂ¤î1J$2856e464-e2cf-4c09-b1df-3d9015adfb8e
+r	java:S106y"+Replace this use of System.out by a logger.(…Ó–Ğøÿÿÿÿ8ÓÃÂ¤î1J$a904140f-3419-409b-ba7b-3bdb598e4163
+r	java:S106~"+Replace this use of System.out by a logger.(àª’ûÿÿÿÿ8ÔÃÂ¤î1J$2c314975-fe6e-4991-9adf-1a89afab4485
+n	java:S106ƒ"+Replace this use of System.out by a logger.(Ù¡¯8ÔÃÂ¤î1J$377afe8c-f189-47e5-aed0-1ee1d02fa48f
+s	java:S106‡"+Replace this use of System.out by a logger.(×ş‘¦ÿÿÿÿÿ8ÔÃÂ¤î1J$fccdf7cb-5fd4-4d6d-806f-7c042c7a9421
+„	java:S125†"<This block of commented-out lines of code should be removed.(¤Ä™”ıÿÿÿÿ8ÔÃÂ¤î1J$5d482c21-9584-471d-8eab-36c486528b86
+s	java:S106‰"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8ÔÃÂ¤î1J$b782da8e-dc64-4edf-99ce-54bd32633e81
+m
+java:S1481"*Remove this unused "_Blue" local variable.(ğ²Ä8óÖÂ¤î1J$174b787c-b983-4bef-b5c8-f66cc0d161bf
+s
+java:S1481’"*Remove this unused "bLue$" local variable.(ÎÅ–şÿÿÿÿ8ÜÃÂ¤î1J$39090363-bdf4-4aeb-b612-c8a832c078f2
+r
+java:S1481“")Remove this unused "BLue" local variable.(õÁû²øÿÿÿÿ8óÖÂ¤î1J$37c749e8-8ff3-48d9-a625-76fba5ce6e5f
+Š
+java:S3457˜"AFormat specifiers should be used instead of string concatenation.(šÓÿºşÿÿÿÿ8ôÖÂ¤î1J$7621a791-9767-41af-9736-b15eb1f834f7
+s	java:S106˜"+Replace this use of System.out by a logger.(šÓÿºşÿÿÿÿ8İÃÂ¤î1J$ac718fc1-aa68-4935-b5eb-f2c6713b22c9
+	java:S125š"<This block of commented-out lines of code should be removed.(êáØ8ôÖÂ¤î1J$e87548b4-9250-40be-a63e-319a0bf7937e
+z
+java:S1854¡"7Remove this useless assignment to local variable "tip".(œæ¶h8ôÖÂ¤î1J$74029672-a9fe-400d-a937-e907c04af913
+z
+java:S1854¡"7Remove this useless assignment to local variable "tip".(œæ¶h8ôÖÂ¤î1J$d93e3d86-49e6-4da5-87c1-3111f4ce22a5
+|
+java:S1854¡"9Remove this useless assignment to local variable "total".(œæ¶h8ôÖÂ¤î1J$27ccec4b-8c05-4125-9485-8f74a7e26c0f
+m
+java:S1481¡"*Remove this unused "total" local variable.(œæ¶h8ôÖÂ¤î1J$32ef8b8e-bd75-4652-a2bf-2200cf3d968b
+s	java:S106¦"+Replace this use of System.out by a logger.(ó•·øÿÿÿÿ8İÃÂ¤î1J$e946ceea-50c5-422d-89ca-6477f9fd017d
+	java:S125¥"<This block of commented-out lines of code should be removed.(¶­¶¹8õÖÂ¤î1J$9ba9c311-2062-437a-add5-e450e9fec54c
+
+java:S1858¦"D"b" is already a string, there's no need to call "toString()" on it.(ó•·øÿÿÿÿ8õÖÂ¤î1J$9454a0c9-09cd-4b13-9916-35556f5afbc4
+n	java:S106ª"+Replace this use of System.out by a logger.(×áİ„8àÃÂ¤î1J$2d14ba34-c381-4046-8818-d153e30670d6
+n	java:S106«"+Replace this use of System.out by a logger.(×•œ²8õÖÂ¤î1J$ec29e5ca-9d0a-4057-9392-491d0af30df3
+s	java:S106¬"+Replace this use of System.out by a logger.(´Ñ·Ÿùÿÿÿÿ8õÖÂ¤î1J$3d34304d-bf87-4a8c-8b21-b16bce36935b
+„
+java:S1854²";Remove this useless assignment to local variable "penguin".(ª°¬„úÿÿÿÿ8öÖÂ¤î1J$8ec79ca9-8c6b-49dc-a49b-41ffa783e36c
+‚
+java:S1854±"9Remove this useless assignment to local variable "moose".(Ü–˜Èøÿÿÿÿ8ŞÃÂ¤î1J$4a0a3274-0e97-40c2-9459-8e4c7a759bac
+{
+java:S1854°"7Remove this useless assignment to local variable "cat".(•ƒçû8ŞÃÂ¤î1J$88a27fa3-4a2b-4b8f-918a-b11b39cf51d1
+o
+java:S2185°"+Remove this unnecessary call to "Math.ceil"(•ƒçû8öÖÂ¤î1J$ef7c3918-9b3f-4b90-a446-ba3c6ad6b019
+l
+java:S1481°"(Remove this unused "cat" local variable.(•ƒçû8ŞÃÂ¤î1J$19f3f45b-952b-45f6-8b42-43c4f8e723f2
+s
+java:S1481±"*Remove this unused "moose" local variable.(Ü–˜Èøÿÿÿÿ8ŞÃÂ¤î1J$95d86da2-f66b-4278-a276-7adcba3de397
+u
+java:S1481²",Remove this unused "penguin" local variable.(ª°¬„úÿÿÿÿ8÷ÖÂ¤î1J$1b56c8d7-60b2-4a47-ba0a-8581911cb4a7
+l
+java:S1125¶"(Remove the unnecessary boolean literals.(å¾Ã½8÷ÖÂ¤î1J$963bfe4f-b4fc-409b-b55e-cd5ae57a6b8a
+l	java:S108¶")Either remove or fill this block of code.(å¾Ã½8øÖÂ¤î1J$2d50c604-9b90-4bc0-aeda-4175b374f5f2
+„	java:S125¼"<This block of commented-out lines of code should be removed.(‘ë§¯şÿÿÿÿ8øÖÂ¤î1J$ad31aef2-eb6a-4343-bcff-ae8a1c3e5fa2
+€
+java:S1854Å"7Remove this useless assignment to local variable "num".(Óêè²ÿÿÿÿÿ8øÖÂ¤î1J$55eb6393-34bd-4063-8f63-08910e7c5795
+
+java:S1854Ã"6Remove this useless assignment to local variable "ch".(”‡ã‚şÿÿÿÿ8øÖÂ¤î1J$5222688c-20fb-4501-a886-4082abced82c
+p
+java:S1481Ã"'Remove this unused "ch" local variable.(”‡ã‚şÿÿÿÿ8øÖÂ¤î1J$f4df3c0e-6cdf-4aa3-b8d5-4d9fe3b65d23
+q
+java:S1481Å"(Remove this unused "num" local variable.(Óêè²ÿÿÿÿÿ8ùÖÂ¤î1J$5df6474b-b75a-4270-ba9b-d055a4a5af18
+n	java:S106Ò"+Replace this use of System.out by a logger.(šÏ÷Š8úÖÂ¤î1J$808baf69-0a14-4251-8637-b4a29fac5806
+n	java:S106Ó"+Replace this use of System.out by a logger.(·–¤¡8úÖÂ¤î1J$fff74906-0cbb-495a-ba91-cb39c3a9534f
+u
+java:S1172Ö",Remove this unused method parameter "start".(Ä³Øûÿÿÿÿ8úÖÂ¤î1J$9b11a6d1-23cc-4743-ab45-996f3bf2f2db

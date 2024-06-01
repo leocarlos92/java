@@ -1,0 +1,53 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(Şªğµ8ì‚‘Úì1
+L
+java:S3740"/Provide the parametrized type for this generic.(Şªğµ8ì‚‘Úì1
+L
+java:S3740"/Provide the parametrized type for this generic.(Ç 8ì‚‘Úì1
+L
+java:S3740"/Provide the parametrized type for this generic.(Ç 8ì‚‘Úì1
+L
+java:S3740"/Provide the parametrized type for this generic.(ç²ã“8ì‚‘Úì1
+L
+java:S3740"/Provide the parametrized type for this generic.(ÏõÌ‘8ì‚‘Úì1
+L
+java:S3740"/Provide the parametrized type for this generic.(ÏõÌ‘8ì‚‘Úì1
+Q
+java:S3740"/Provide the parametrized type for this generic.(‹£úúÿÿÿÿ8ì‚‘Úì1
+Q
+java:S3740"/Provide the parametrized type for this generic.(‹£úúÿÿÿÿ8ì‚‘Úì1
+Q
+java:S3740"/Provide the parametrized type for this generic.(³Ì×Óüÿÿÿÿ8ì‚‘Úì1
+Q
+java:S3740"/Provide the parametrized type for this generic.(³Ì×Óüÿÿÿÿ8ì‚‘Úì1
+L
+java:S3740("/Provide the parametrized type for this generic.(€®Œƒ8ì‚‘Úì1
+
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Şªğµ8í‚‘Úì1
+‚
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(Şªğµ8í‚‘Úì1
+
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(Ç 8í‚‘Úì1
+‚
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(Ç 8í‚‘Úì1
+‚
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(ç²ã“8í‚‘Úì1
+
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ÏõÌ‘8í‚‘Úì1
+‚
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(ÏõÌ‘8í‚‘Úì1
+“
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(‹£úúÿÿÿÿ8í‚‘Úì1
+‡
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(‹£úúÿÿÿÿ8í‚‘Úì1
+“
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(³Ì×Óüÿÿÿÿ8í‚‘Úì1
+‡
+java:S1319"eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(³Ì×Óüÿÿÿÿ8î‚‘Úì1
+‚
+java:S1319("eThe type of "list" should be an interface such as "List" rather than the implementation "LinkedList".(€®Œƒ8î‚‘Úì1
+
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€®Œƒ8ó‚‘Úì1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ú‡œ¹8õ‚‘Úì1

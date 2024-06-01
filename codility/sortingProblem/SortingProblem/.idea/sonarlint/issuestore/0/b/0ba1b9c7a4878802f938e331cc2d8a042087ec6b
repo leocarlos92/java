@@ -1,0 +1,5 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8¹ô¾ò1J$b4bf246a-4b5c-44e3-9e62-2e183eca9954
+m	java:S106	"+Replace this use of System.out by a logger.(£õ–ı8ºô¾ò1J$aed830b8-f506-44c3-9de6-ab8f00ddfbc1
+r	java:S106"+Replace this use of System.out by a logger.(´é²ùşÿÿÿÿ8»ô¾ò1J$e431d1f5-c0d1-47dc-80e5-ca10bdb13acd
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈªŞ’úÿÿÿÿ8»ô¾ò1J$944fd161-8952-423d-bafd-4fbfdeedaa64
